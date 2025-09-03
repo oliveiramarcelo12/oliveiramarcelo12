@@ -90,11 +90,6 @@ Sistema para Hamon Corp permitindo que colaboradores gerenciem ganhos e despesas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiramarcelo12&layout=compact&theme=dracula"/>
 </p>
 
-<h2 align="center">🔥 Streak & Contribuições</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliveiramarcelo12&theme=dracula"/>
-</p>
-
 <h2 align="center">🏆 Conquistas</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=oliveiramarcelo12&theme=dracula"/>
