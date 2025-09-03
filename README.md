@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou o Marcelo!</h1>
+<h1 align="center">Olá, Eu sou o Marcelo!</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/oliveiramarcelo12/assets/main/coding.gif" width="300"/>
