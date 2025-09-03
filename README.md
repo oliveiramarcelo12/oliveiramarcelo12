@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou o Marcelo Oliveira</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/oliveiramarcelo12/assets/main/coding.gif" width="300"/>
 </p>
 
 <p align="center">
@@ -21,7 +21,19 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+
+---
+
+<h2 align="center">🛠️ Tecnologias que estou aprendendo</h2>
+<ul>
+  <li>Java</li>
+  <li>PHP</li>
+  <li>HTML, CSS e JavaScript</li>
+  <li>MySQL</li>
+  <li>📊 GitHub Insights</li>
+</ul>
 
 ---
 
@@ -52,6 +64,25 @@ Sistema para Hamon Corp permitindo que colaboradores gerenciem ganhos e despesas
 
 ---
 
+<h2 align="center">🎓 Certificações</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Programação%20Java-SENAI-SP-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Programação%20Banco%20de%20Dados-SENAI-SP-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AZ-900-Microsoft%20Azure-blue?style=for-the-badge"/>
+</p>
+
+---
+
+<h2 align="center">🌱 Aprendizado Atual</h2>
+<ul>
+  <li>Flutter e Dart avançado</li>
+  <li>Integração de APIs (Microsoft Azure Face, AWS Rekognition)</li>
+  <li>Testes automatizados e boas práticas de desenvolvimento</li>
+  <li>Buscando aprofundar conhecimento em Python</li>
+</ul>
+
+---
+
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oliveiramarcelo12&show_icons=true&theme=dracula&count_private=true"/><br>
@@ -61,6 +92,11 @@ Sistema para Hamon Corp permitindo que colaboradores gerenciem ganhos e despesas
 <h2 align="center">🔥 Streak & Contribuições</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliveiramarcelo12&theme=dracula"/>
+</p>
+
+<h2 align="center">🏆 Conquistas</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oliveiramarcelo12&theme=dracula"/>
 </p>
 
 <h2 align="center">📫 Contato & Redes</h2>
@@ -74,20 +110,4 @@ Sistema para Hamon Corp permitindo que colaboradores gerenciem ganhos e despesas
 <a href="mailto:oliv.marcelo12@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
-
----
-
-<h2 align="center">🌱 Aprendizado Atual</h2>
-<ul>
-  <li>Flutter e Dart avançado</li>
-  <li>Integração de APIs (Microsoft Azure Face, AWS Rekognition)</li>
-  <li>Testes automatizados e boas práticas de desenvolvimento</li>
-  <li>Buscando aprofundar conhecimento em Python</li>
-</ul>
-
-
-<h2 align="center">🏆 Conquistas</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oliveiramarcelo12&theme=dracula"/>
 </p>
