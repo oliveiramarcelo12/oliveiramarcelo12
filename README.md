@@ -65,11 +65,12 @@ Sistema para Hamon Corp permitindo que colaboradores gerenciem ganhos e despesas
 ---
 
 <h2 align="center">🎓 Certificações</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Programação%20Java-SENAI-SP-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Programação%20Banco%20de%20Dados-SENAI-SP-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AZ-900-Microsoft%20Azure-blue?style=for-the-badge"/>
-</p>
+<ul>
+  <li>Programação Java – SENAI-SP</li>
+  <li>Programação Banco de Dados – SENAI-SP</li>
+  <li>AZ-900: Microsoft Azure Fundamentals</li>
+</ul>
+
 
 ---
 
